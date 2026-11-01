@@ -1,0 +1,1379 @@
+{
+  "files": [
+    {
+      "id": "documents",
+      "parent": "root",
+      "name": "Documents",
+      "type": "folder",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "photos-root",
+      "parent": "root",
+      "name": "Photos",
+      "type": "folder",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "projects",
+      "parent": "root",
+      "name": "Projects",
+      "type": "folder",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "phone-backup",
+      "parent": "root",
+      "name": "Phone backup",
+      "type": "folder",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "empty",
+      "parent": "documents",
+      "name": "Scans",
+      "type": "folder",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "guide",
+      "parent": "root",
+      "name": "Welcome.md",
+      "type": "text",
+      "size": "2.4 KB",
+      "content": "# Household library\n\nA place for family photos, useful documents, and project files.\n\n- Photos keep their original capture dates.\n- Phone backups keep their relative paths.\n- Grab links share a frozen copy of a selection.",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "pdf",
+      "parent": "documents",
+      "name": "Cabin renovation.pdf",
+      "type": "pdf",
+      "size": "1.8 MB",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "budget",
+      "parent": "documents",
+      "name": "Household budget.xlsx",
+      "type": "office",
+      "size": "84 KB",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "notes",
+      "parent": "documents",
+      "name": "Weekend notes.txt",
+      "type": "text",
+      "size": "1.1 KB",
+      "content": "Friday\nPick up the keys.\n\nSaturday\nWalk the forest trail before breakfast.\n\nSunday\nBack up the camera cards.",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "unicode",
+      "parent": "documents",
+      "name": "旅のメモ — été.md",
+      "type": "text",
+      "size": "3.2 KB",
+      "content": "# Travel notes\n\nOne small bag. A camera. A notebook.\n\nKeep the original photographs.",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "iso",
+      "parent": "root",
+      "name": "Workstation recovery image.iso",
+      "type": "binary",
+      "size": "50 GB",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "cover",
+      "parent": "root",
+      "name": "Lake weekend.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 5,
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "model",
+      "parent": "projects",
+      "name": "Cabin exterior v3.step",
+      "type": "model",
+      "size": "24 MB",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "source",
+      "parent": "projects",
+      "name": "Readme.md",
+      "type": "text",
+      "size": "1.4 KB",
+      "content": "# Cabin project\n\nMaterials and plans for the next visit.",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "zip",
+      "parent": "projects",
+      "name": "Design exports.zip",
+      "type": "binary",
+      "size": "420 MB",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "video",
+      "parent": "root",
+      "name": "Coastal walk.mov",
+      "type": "video",
+      "size": "248 MB",
+      "art": 0,
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "audio",
+      "parent": "root",
+      "name": "Field recording.m4a",
+      "type": "audio",
+      "size": "12 MB",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "long",
+      "parent": "phone-backup",
+      "name": "A very long descriptive filename for the cabin planning notes and material estimates — revised October 2026.pdf",
+      "type": "pdf",
+      "size": "3.7 MB",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "receipts",
+      "parent": "phone-backup",
+      "name": "Receipts",
+      "type": "folder",
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "receipt",
+      "parent": "receipts",
+      "name": "Hardware store.pdf",
+      "type": "pdf",
+      "size": "540 KB",
+      "modified": "2026-10-01",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-0",
+      "photoId": "photo-0",
+      "parent": "photos-root",
+      "name": "Coastal walk 1.heic",
+      "type": "image",
+      "size": "94 MB",
+      "art": 0,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-1",
+      "photoId": "photo-1",
+      "parent": "photos-root",
+      "name": "Mountain morning 1.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 1,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-2",
+      "photoId": "photo-2",
+      "parent": "photos-root",
+      "name": "Desert light 1.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 2,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-3",
+      "photoId": "photo-3",
+      "parent": "photos-root",
+      "name": "Blue hour 1.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 3,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-4",
+      "photoId": "photo-4",
+      "parent": "photos-root",
+      "name": "Forest trail 1.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 4,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-5",
+      "photoId": "photo-5",
+      "parent": "photos-root",
+      "name": "Lake weekend 1.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 5,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-6",
+      "photoId": "photo-6",
+      "parent": "photos-root",
+      "name": "Winter ridge 1.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 6,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-7",
+      "photoId": "photo-7",
+      "parent": "photos-root",
+      "name": "Evening dunes 1.mov",
+      "type": "video",
+      "size": "94 MB",
+      "art": 7,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-8",
+      "photoId": "photo-8",
+      "parent": "photos-root",
+      "name": "Coastal walk 2.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 8,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-9",
+      "photoId": "photo-9",
+      "parent": "photos-root",
+      "name": "Mountain morning 2.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 9,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-10",
+      "photoId": "photo-10",
+      "parent": "photos-root",
+      "name": "Desert light 2.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 10,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-11",
+      "photoId": "photo-11",
+      "parent": "photos-root",
+      "name": "Blue hour 2.heic",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 11,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-12",
+      "photoId": "photo-12",
+      "parent": "photos-root",
+      "name": "Forest trail 2.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 12,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-13",
+      "photoId": "photo-13",
+      "parent": "photos-root",
+      "name": "Lake weekend 2.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 13,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-14",
+      "photoId": "photo-14",
+      "parent": "photos-root",
+      "name": "Winter ridge 2.mov",
+      "type": "video",
+      "size": "94 MB",
+      "art": 14,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-15",
+      "photoId": "photo-15",
+      "parent": "photos-root",
+      "name": "Evening dunes 2.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 15,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-16",
+      "photoId": "photo-16",
+      "parent": "photos-root",
+      "name": "Coastal walk 3.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 16,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-17",
+      "photoId": "photo-17",
+      "parent": "photos-root",
+      "name": "Mountain morning 3.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 17,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-18",
+      "photoId": "photo-18",
+      "parent": "photos-root",
+      "name": "Desert light 3.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 18,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-19",
+      "photoId": "photo-19",
+      "parent": "photos-root",
+      "name": "Blue hour 3.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 19,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-20",
+      "photoId": "photo-20",
+      "parent": "photos-root",
+      "name": "Forest trail 3.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 20,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-21",
+      "photoId": "photo-21",
+      "parent": "photos-root",
+      "name": "Lake weekend 3.mov",
+      "type": "video",
+      "size": "94 MB",
+      "art": 21,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-22",
+      "photoId": "photo-22",
+      "parent": "photos-root",
+      "name": "Winter ridge 3.heic",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 22,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-23",
+      "photoId": "photo-23",
+      "parent": "photos-root",
+      "name": "Evening dunes 3.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 23,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-24",
+      "photoId": "photo-24",
+      "parent": "photos-root",
+      "name": "Coastal walk 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 24,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-25",
+      "photoId": "photo-25",
+      "parent": "photos-root",
+      "name": "Mountain morning 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 25,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-26",
+      "photoId": "photo-26",
+      "parent": "photos-root",
+      "name": "Desert light 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 26,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-27",
+      "photoId": "photo-27",
+      "parent": "photos-root",
+      "name": "Blue hour 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 27,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-28",
+      "photoId": "photo-28",
+      "parent": "photos-root",
+      "name": "Forest trail 4.mov",
+      "type": "video",
+      "size": "94 MB",
+      "art": 28,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-29",
+      "photoId": "photo-29",
+      "parent": "photos-root",
+      "name": "Lake weekend 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 29,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-30",
+      "photoId": "photo-30",
+      "parent": "photos-root",
+      "name": "Winter ridge 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 30,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-31",
+      "photoId": "photo-31",
+      "parent": "photos-root",
+      "name": "Evening dunes 4.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 31,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-32",
+      "photoId": "photo-32",
+      "parent": "photos-root",
+      "name": "Coastal walk 5.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 32,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-33",
+      "photoId": "photo-33",
+      "parent": "photos-root",
+      "name": "Mountain morning 5.heic",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 33,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-34",
+      "photoId": "photo-34",
+      "parent": "photos-root",
+      "name": "Desert light 5.jpg",
+      "type": "image",
+      "size": "8.2 MB",
+      "art": 34,
+      "modified": "2026-10-02",
+      "trashed": true,
+      "revision": "1"
+    },
+    {
+      "id": "file-photo-35",
+      "photoId": "photo-35",
+      "parent": "photos-root",
+      "name": "Blue hour 5.mov",
+      "type": "video",
+      "size": "94 MB",
+      "art": 35,
+      "modified": "2026-10-02",
+      "trashed": false,
+      "revision": "1"
+    }
+  ],
+  "photos": [
+    {
+      "id": "photo-0",
+      "name": "Coastal walk 1",
+      "art": 0,
+      "captured": "2026-10-02",
+      "added": "2026-10-02",
+      "size": "94 MB",
+      "kind": "live",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": true,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-1",
+      "name": "Mountain morning 1",
+      "art": 1,
+      "captured": "2026-10-02",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": true,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-2",
+      "name": "Desert light 1",
+      "art": 2,
+      "captured": "2026-10-02",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-3",
+      "name": "Blue hour 1",
+      "art": 3,
+      "captured": "2026-10-02",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-4",
+      "name": "Forest trail 1",
+      "art": 4,
+      "captured": "2026-10-01",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": true,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-5",
+      "name": "Lake weekend 1",
+      "art": 5,
+      "captured": "2026-10-01",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-6",
+      "name": "Winter ridge 1",
+      "art": 6,
+      "captured": "2026-10-01",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-7",
+      "name": "Evening dunes 1",
+      "art": 7,
+      "captured": "2026-10-01",
+      "added": "2026-10-02",
+      "size": "94 MB",
+      "kind": "video",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend",
+        "favorites-album"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-8",
+      "name": "Coastal walk 2",
+      "art": 8,
+      "captured": "2026-09-22",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": true,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-9",
+      "name": "Mountain morning 2",
+      "art": 9,
+      "captured": "2026-09-22",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-10",
+      "name": "Desert light 2",
+      "art": 10,
+      "captured": "2026-09-22",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-11",
+      "name": "Blue hour 2",
+      "art": 11,
+      "captured": "2026-09-22",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "live",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-12",
+      "name": "Forest trail 2",
+      "art": 12,
+      "captured": "2026-09-08",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-13",
+      "name": "Lake weekend 2",
+      "art": 13,
+      "captured": "2026-09-08",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-14",
+      "name": "Winter ridge 2",
+      "art": 14,
+      "captured": "2026-09-08",
+      "added": "2026-10-02",
+      "size": "94 MB",
+      "kind": "video",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-15",
+      "name": "Evening dunes 2",
+      "art": 15,
+      "captured": "2026-09-08",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": true,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "weekend"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-16",
+      "name": "Coastal walk 3",
+      "art": 16,
+      "captured": "2026-08-16",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-17",
+      "name": "Mountain morning 3",
+      "art": 17,
+      "captured": "2026-08-16",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-18",
+      "name": "Desert light 3",
+      "art": 18,
+      "captured": "2026-08-16",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-19",
+      "name": "Blue hour 3",
+      "art": 19,
+      "captured": "2026-08-16",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-20",
+      "name": "Forest trail 3",
+      "art": 20,
+      "captured": "2025-12-21",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-21",
+      "name": "Lake weekend 3",
+      "art": 21,
+      "captured": "2025-12-21",
+      "added": "2026-10-02",
+      "size": "94 MB",
+      "kind": "video",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-22",
+      "name": "Winter ridge 3",
+      "art": 22,
+      "captured": "2025-12-21",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "live",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-23",
+      "name": "Evening dunes 3",
+      "art": 23,
+      "captured": "2025-12-21",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "summer"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-24",
+      "name": "Coastal walk 4",
+      "art": 24,
+      "captured": "2025-07-04",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-25",
+      "name": "Mountain morning 4",
+      "art": 25,
+      "captured": "2025-07-04",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-26",
+      "name": "Desert light 4",
+      "art": 26,
+      "captured": "2025-07-04",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-27",
+      "name": "Blue hour 4",
+      "art": 27,
+      "captured": "2025-07-04",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-28",
+      "name": "Forest trail 4",
+      "art": 28,
+      "captured": "2024-06-18",
+      "added": "2026-10-02",
+      "size": "94 MB",
+      "kind": "video",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-29",
+      "name": "Lake weekend 4",
+      "art": 29,
+      "captured": "2024-06-18",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-30",
+      "name": "Winter ridge 4",
+      "art": 30,
+      "captured": "2024-06-18",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-31",
+      "name": "Evening dunes 4",
+      "art": 31,
+      "captured": "2024-06-18",
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-32",
+      "name": "Coastal walk 5",
+      "art": 32,
+      "captured": null,
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": true,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-33",
+      "name": "Mountain morning 5",
+      "art": 33,
+      "captured": null,
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "live",
+      "favorite": false,
+      "archived": false,
+      "hidden": true,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-34",
+      "name": "Desert light 5",
+      "art": 34,
+      "captured": null,
+      "added": "2026-10-02",
+      "size": "8.2 MB",
+      "kind": "image",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": true,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "+01:00",
+      "revision": "1"
+    },
+    {
+      "id": "photo-35",
+      "name": "Blue hour 5",
+      "art": 35,
+      "captured": null,
+      "added": "2026-10-02",
+      "size": "94 MB",
+      "kind": "video",
+      "favorite": false,
+      "archived": false,
+      "hidden": false,
+      "trashed": false,
+      "albums": [
+        "winter"
+      ],
+      "cloudOnly": false,
+      "offset": "-04:00",
+      "revision": "1"
+    }
+  ],
+  "albums": [
+    {
+      "id": "trips",
+      "parent": "root",
+      "name": "Trips",
+      "type": "folder"
+    },
+    {
+      "id": "family",
+      "parent": "root",
+      "name": "Family",
+      "type": "folder"
+    },
+    {
+      "id": "weekend",
+      "parent": "trips",
+      "name": "Weekend",
+      "type": "album",
+      "cover": 5
+    },
+    {
+      "id": "summer",
+      "parent": "trips",
+      "name": "Summer",
+      "type": "album",
+      "cover": 2
+    },
+    {
+      "id": "winter",
+      "parent": "trips",
+      "name": "Winter",
+      "type": "album",
+      "cover": 6
+    },
+    {
+      "id": "favorites-album",
+      "parent": "family",
+      "name": "Weekend",
+      "type": "album",
+      "cover": 4
+    },
+    {
+      "id": "empty-album",
+      "parent": "family",
+      "name": "Birthday",
+      "type": "album",
+      "cover": null
+    }
+  ]
+}

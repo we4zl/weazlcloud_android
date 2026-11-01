@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Privacy policy for the WeazlCloud and Subweazl Android apps.">
+  <title>WeazlCloud &amp; Subweazl Privacy Policy</title>
+  <style>
+    :root { color-scheme: dark; }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #111215; color: #e9e8e1; font: 17px/1.7 system-ui, -apple-system, sans-serif; }
+    main { max-width: 800px; margin: auto; padding: 48px 24px 72px; }
+    h1 { font-size: clamp(30px, 6vw, 44px); line-height: 1.15; margin: 0 0 16px; }
+    h2 { font-size: 26px; line-height: 1.35; margin-top: 44px; color: #deef64; }
+    h3 { font-size: 21px; line-height: 1.4; margin-top: 30px; }
+    nav { display: flex; flex-wrap: wrap; gap: 12px 24px; margin: 24px 0; }
+    a { color: #deef64; text-underline-offset: 3px; overflow-wrap: anywhere; }
+    li { margin-bottom: 10px; }
+    .date { color: #9798a5; }
+    .intro { border-left: 3px solid #deef64; padding-left: 20px; }
+  </style>
+</head>
+<body>
+<main>
+  <h1>WeazlCloud &amp; Subweazl Privacy Policy</h1>
+  <p class="date">Effective date: October 30, 2026</p>
+  <p class="intro">This policy covers the Android apps <strong>WeazlCloud</strong> and <strong>Subweazl</strong>, provided by Bob Prendergast. Both are clients for servers you choose. The sections below explain each app's data handling; features and server support may vary by app version. Privacy questions can be sent to <a href="mailto:bobprendie@gmail.com">bobprendie@gmail.com</a>.</p>
+  <nav aria-label="Privacy policy sections"><a href="#weazlcloud">WeazlCloud</a><a href="#subweazl">Subweazl</a><a href="#shared">Shared information and contact</a></nav>
+  <h2 id="weazlcloud">WeazlCloud: files and photo backup</h2>
+  <p>WeazlCloud accesses files and photos on a privately operated WeazlCloud server. This section applies to WeazlCloud; Subweazl's music features are described separately below.</p>
+
+  <h3>1. Your server and account</h3>
+  <p>You choose the server to which the app connects and sign in with an existing server account. The default suggested address is https://weazlcloud.prendie.io. Account access, server storage, server backups and server-side retention are controlled by that server's administrator. When you connect to a server operated by someone else, ask that administrator about their data-handling practices.</p>
+
+  <h3>2. Information the app handles</h3>
+  <ul>
+    <li><strong>Account and connection information:</strong> your server addresses, username, account and server identifiers, account display name where provided, registered device identifier, authorization scopes, device access tokens and account-session credentials. Passwords and vault passphrases you enter are sent to the selected server for authentication or unlocking. The app does not save those passwords or passphrases.</li>
+    <li><strong>Files and media you use:</strong> files, documents, photos, videos and audio that you choose to upload, share, preview or save offline, or that are included in a backup source you enable. This can include original file contents, names, paths, sizes, content hashes, capture and modification dates, album or folder information and embedded metadata. Original media may contain location or other personal information already recorded in the file.</li>
+    <li><strong>Local app data:</strong> preferences, permission grants, transfer specifications, progress and receipts, source identities, collection mappings, cached listings, thumbnails, previews, shared attachments and offline originals.</li>
+    <li><strong>Connection information:</strong> servers and the infrastructure delivering those connections receive information needed to handle requests, such as your IP address and requested resources. Server access logs and their retention are controlled by the server administrator.</li>
+  </ul>
+
+  <h3>3. How information is used</h3>
+  <p>The app uses this information to authenticate your account and device, display and organize your library, transfer and verify originals, resume interrupted transfers, reconcile albums and folders, provide offline access, create or revoke sharing links and apply your settings. Information you send to the support email is used to respond to your request; include only information you want to provide and do not send passwords or access tokens.</p>
+  <p>The Android app contains no advertising, behavioral tracking, analytics SDK or automatic crash-reporting SDK. The app does not sell personal information or use it for targeted advertising. Platform services, including Android and Google Play, may process information under their own policies and your platform settings.</p>
+
+  <h3>4. Optional photo and folder backup</h3>
+  <p>Photo backup is off until you enable it, grant access and select a server destination. Once enabled, the app reads accessible device photos and videos and uploads their originals and associated metadata to that server, including while the app is closed. Scheduled backup follows your network and charging preferences and Android's background-work limits.</p>
+  <p>Selected-photo access limits the photos available to the app. Cloud-only Google Photos items and Locked Folder contents are not exposed through ordinary device media access. Folder backup accesses only document-tree locations you select and authorize. You can disable a backup source, pause transfers or revoke permissions in Android Settings. Disabling a source prevents future scans; items already queued remain subject to transfer controls. Pausing or disabling backup does not erase originals already stored on the server.</p>
+
+  <h3>5. Sharing and recipients</h3>
+  <p>Uploads and account requests go to the server you select and the hosting or network providers that deliver that connection. People with access authorized by the server administrator may be able to access information stored there, depending on the server's access controls. The app does not send a separate copy of your library to an advertising or analytics service.</p>
+  <p>When you share an original through Android's share sheet, the receiving app or recipient receives that content under its own privacy practices. When you create and send a grab link, recipients can access the selected server content subject to the link's restrictions. Anyone who obtains a usable link and any required passphrase may be able to access it. Revoking a link cannot retrieve copies that recipients have already downloaded.</p>
+
+  <h3>6. Permissions and device security</h3>
+  <p>The app requests photo/video or selected-media access for photo backup, document-tree access for selected folder sources, and notification permission for transfer status. It checks network and charging state to apply your transfer policy. An optional app lock uses Android's device authentication; the app does not receive your device PIN, password or biometric template. It does not request device location, contacts, microphone or camera permissions.</p>
+  <p>Saved device and account-session credentials are encrypted using an Android Keystore-backed key. Other cached or staged content is stored in the app's private storage; this is not a claim that every local file is separately encrypted or that server storage is end-to-end encrypted. The app excludes its private data from Android's cloud-backup and device-transfer backup mechanisms.</p>
+  <p>Account sign-in and vault unlocking use HTTPS. The app also supports a user-configured private-network HTTP address for device-authorized requests; traffic to an HTTP address is not protected by TLS. Use HTTPS when transport encryption is required, and only connect to servers and networks you trust.</p>
+
+  <h3>7. Retention and deletion</h3>
+  <p>Local upload specifications, receipts and source identities are retained to support reliable recovery. Staged upload bytes are retained while needed for a transfer and are removed after confirmed server storage, verified existing-content reconciliation or explicit transfer cancellation. Cancelling a transfer does not erase the original in your device's photo library or selected source folder. Transfer records can remain after staged bytes are removed. Share-inbox attachments are retained until imported or removed, and offline originals remain until you remove the local copy, sign out or remove the app's local data.</p>
+  <p>You can clear preview caches and remove offline copies using the app's controls. Signing out removes the current account's app-managed local data and saved credential. Android's clear-storage or uninstall controls remove the app's local data. These actions do not delete your server account, server originals, device-library originals or copies already shared with others. Removing a device original does not automatically delete its server backup.</p>
+  <p>Use the server's file, photo and Trash controls to manage server content. To request account deletion, deletion of associated server data, or details about retained server backups and logs, contact your server administrator. For accounts on the default server at weazlcloud.prendie.io, contact <a href="mailto:bobprendie@gmail.com">bobprendie@gmail.com</a>. The Android app does not provide account creation. Support correspondence is kept while needed to address your request; you may use the same address to request its deletion, subject to any applicable retention obligations.</p>
+
+  <h2 id="subweazl">Subweazl: private music playback</h2>
+  <p>Subweazl is a music client for a WeazlMusic server you choose and, in versions supporting direct connections, Navidrome. Music, radio sources and server hosting are supplied by you or your server administrator. Subweazl does not provide a music catalog or music subscription.</p>
+
+  <h3>1. Account, library and listening information</h3>
+  <p>The app handles configured server addresses, usernames, account and device identifiers, chosen device names, access and refresh tokens, optional proxy-header secrets, and password-derived Navidrome authentication values where applicable. Login information is used to connect to your selected server. Authentication secrets are encrypted with an Android Keystore-backed key; the app does not retain your plaintext login password.</p>
+  <p>Subweazl stores library metadata, artwork, playlists, favorites, recent and frequent listening summaries, playback positions, queues, preferences, download records, cached audio and saved audio in app-private storage. These local files are not a claim of separately encrypted music storage. The app excludes its private data from Android's cloud-backup and device-transfer backup mechanisms.</p>
+
+  <h3>2. Requests to your server and optional providers</h3>
+  <p>Sign-in, library access, artwork, streaming, downloads, favorites, playlist edits, station changes and supported recording requests send the information needed for those features to your configured server. Qualified listening-history submissions are sent where the server integration supports them; local listening summaries are stored separately. Direct Navidrome currently uses local listening history without server scrobbling. Network requests expose your IP address to the server and infrastructure delivering the connection.</p>
+  <p>Optional Mood generation can send music metadata and generation settings through your WeazlMusic server to the curator or model provider configured by the server administrator. Internet radio and recording features use server-configured sources and services, which may receive related requests. These enhanced features are not provided by a direct Navidrome connection. Ask your administrator which upstream providers are enabled and how they handle data, logs and retention.</p>
+  <p>Subweazl supports user-configured HTTP and HTTPS server addresses. Traffic to HTTP addresses is not protected by TLS. Use HTTPS for transport encryption and connect only to servers and networks you trust. The Android app contains no advertising, tracking SDKs, automatic developer analytics or automatic crash-reporting SDK, and does not sell personal information or use it for targeted advertising.</p>
+
+  <h3>3. Android Auto, playback controls and voice</h3>
+  <p>Android media services, notification and lock-screen controls, Android Auto and connected playback interfaces receive music metadata and playback interactions needed to provide those features. Their handling follows the relevant platform, device and service policies and your settings.</p>
+  <p>If you choose the in-app voice control, Subweazl opens the speech-recognition activity installed on your phone and receives recognized text to resolve a music request. That speech provider may process audio on its servers under its own policies and settings. Subweazl does not itself record or store microphone audio and does not request microphone permission. Voice assistants can also deliver music requests to the app. Local diagnostic logs record operational events without recording the spoken query. Subweazl does not automatically upload these logs to the developer.</p>
+
+  <h3>4. Retention, sign-out and removal</h3>
+  <p>You can remove downloads, recordings saved on the device and temporary audio through the app's storage controls. Sign-out clears local authentication secrets and attempts to revoke the selected server session where supported, while retaining saved music and metadata for offline use. Removing an account from the device deletes that account's local credentials, metadata, listening summaries and saved media. Android's clear-storage or uninstall controls remove app-local data.</p>
+  <p>Local removal does not delete a server account, server-held listening history, server recordings or other server originals. Server-side deletion and retention, including logs, upstream services and backups, are controlled by the server administrator. Contact that administrator for server-account or server-data deletion. The Android app does not provide account creation.</p>
+
+  <h2 id="shared">Information shared by both apps</h2>
+  <h3>Children</h3>
+  <p>WeazlCloud and Subweazl are general-purpose server clients and are not directed to children under 13. If you believe a child has provided personal information without appropriate authorization, contact the relevant server administrator or the support address below so it can be addressed.</p>
+
+  <h3>Support, changes and contact</h3>
+  <p>This policy may be updated when either app's practices change. The current version is available at <a href="https://weazl.studio/privacy.html">https://weazl.studio/privacy.html</a>, with an offline copy included in WeazlCloud. Subweazl also includes an in-app privacy summary. Review the effective date to identify the version.</p>
+  <p>Information you choose to send by email or in a bug report is used to investigate and respond to your request and is also handled by the email or issue-hosting service. Public bug reports can be read by others: never post passwords, tokens, private server addresses, library exports or recordings. You may request deletion of private support correspondence using the email address below; public posts are managed through the service where you posted them. Server-specific requests should be directed to your server administrator.</p>
+  <p>App provider and privacy contact: Bob Prendergast<br>Email: <a href="mailto:bobprendie@gmail.com">bobprendie@gmail.com</a></p>
+</main>
+</body>
+</html>

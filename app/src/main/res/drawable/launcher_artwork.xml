@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Map the original square to the 72dp viewport inside Android's 108dp layer.
+     The launcher masks the artwork itself, without a legacy white icon plate. -->
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:inset="16.666667%">
+    <bitmap android:src="@drawable/brand_mark" android:gravity="fill" android:filter="true" />
+</inset>
