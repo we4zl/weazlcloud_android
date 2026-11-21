@@ -56,3 +56,7 @@ The sibling iOS app and backend are unchanged. Source artwork was copied from th
 ## License
 
 [MIT](LICENSE), copyright 2026 Bob Prendergast.
+
+## WEAZL and WE4ZL branding
+
+Forking or reusing code does not grant permission to brand or market your own product with the WEAZL™ or WE4ZL™ wordmarks or the weazl head logo. See the [trademark and artwork notice](TRADEMARKS.md).
